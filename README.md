@@ -1,2 +1,1 @@
-# webdevelopment
-Web development  projects
+# Web Development Projects
